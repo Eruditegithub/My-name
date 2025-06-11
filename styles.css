@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+.heading {
+    font-size: 8rem;
+    font-weight: 900;
+    /*background: url(https://images.unsplash.com/photo-1696015437223-82e05253ea08?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);*/
+    /*background: url(https://images.unsplash.com/photo-1625398052107-f9442c605340?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);*/
+    /*background: url(https://images.unsplash.com/photo-1683507285633-7efa17cd0380?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);*/
+    /*background: url(https://images.unsplash.com/photo-1683507285618-363d9db31ae3?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);*/
+    /*background: url(https://media.istockphoto.com/id/146871386/photo/closeup-of-a-section-of-a-sunflower.jpg?s=1024x1024&w=is&k=20&c=SKPX_FeRyw2kmAwMhvu9qqeAO7od_uteBLcWLXZzGro=);*/
+    /*background: url(https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=1024x1024&w=is&k=20&c=UFRbOyd8eVMVgOUwjcK2IB4Dr5IMWBC96yjCGul_HOg=);*/
+    background: url(https://media.istockphoto.com/id/1170896292/photo/heart-of-autumn-yellow-orange-trees-in-forest-with-heart-shape-sunny-weather-good-day.jpg?s=1024x1024&w=is&k=20&c=JB2TtCmCBoUy3bB5kzfBYLSbNtlFY1wgOSa6qkrMveU=);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
