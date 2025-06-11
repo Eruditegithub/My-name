@@ -26,3 +26,8 @@ body {
     -webkit-background-clip: text;
     color: transparent;
 }
+@media  screen and (max-width: 768px) {
+    .heading {
+        font-size: 4rem;
+    }
+}
